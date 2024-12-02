@@ -52,7 +52,8 @@ Galaxy Game is an exciting 3D space-themed game built using the Kivy framework i
 - SoundLoader (Kivy Core Audio)
 
 ## Screenshots 📸
-...
+https://github.com/user-attachments/assets/ca897cd1-9f65-4809-8e65-8c74cc08a36d
+
 
 ## Acknowledgements ❤️
 - Developed with [Kivy](https://kivy.org/) for its robust and versatile framework.
